@@ -476,20 +476,11 @@ I focus on building backend systems that are secure, scalable, maintainable, and
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rabie-khashaba&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_title=false"
-  alt="Rabie Khashaba GitHub Stats"
-  height="170"
-/>
+![Rabie Khashaba GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabie-khashaba&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&cache_seconds=86400)
 
 <br/>
-<br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabie-khashaba&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-  alt="Rabie Khashaba Top Languages"
-  height="170"
-/>
+![Rabie Khashaba Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabie-khashaba&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 ---
