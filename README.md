@@ -1,11 +1,11 @@
 <div align="center">
 
-# Rabie Abdelrhman
+# 👋 Rabie Abdelrhman
 
 ### Backend Engineer · Laravel Developer
 
 <p>
-  I build scalable backend systems, RESTful APIs, and production-ready platforms for mobile and web applications using Laravel.
+  Building scalable backend systems, RESTful APIs, and production-ready platforms for mobile and web applications.
 </p>
 
 <p>
@@ -24,38 +24,89 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a Backend Engineer specialized in building secure, scalable, and maintainable backend systems using **Laravel** and **PHP**.
+I am a **Backend Engineer** specialized in building secure, scalable, and maintainable backend systems using **Laravel** and **PHP**.
 
-My work focuses on API development, database architecture, authentication, payment integrations, third-party services, admin dashboards, notifications, and performance optimization.
-
-I have experience building backend systems for food delivery, car rental, enterprise management, WhatsApp messaging platforms, real estate systems, hospital management, and learning platforms.
+I focus on developing clean RESTful APIs, database architecture, authentication systems, payment integrations, third-party services, admin dashboard APIs, notifications, localization, and performance optimization.
 
 ---
 
-## Core Expertise
+## 🚀 What I Do
 
-* Building RESTful APIs for mobile and web applications
-* Designing clean and scalable database structures
-* Implementing authentication and authorization systems
-* Integrating payment gateways and third-party services
-* Building admin dashboard APIs
-* Handling file uploads, notifications, and localization
-* Writing clean, maintainable, and production-ready code
-* Improving backend performance and query optimization
+<table>
+  <tr>
+    <td>🔗 RESTful API Development</td>
+    <td>🔐 Authentication & Authorization</td>
+  </tr>
+  <tr>
+    <td>🗄️ Database Design</td>
+    <td>⚡ Query Optimization</td>
+  </tr>
+  <tr>
+    <td>💳 Payment Gateway Integration</td>
+    <td>🔥 Firebase Push Notifications</td>
+  </tr>
+  <tr>
+    <td>📦 Admin Dashboard APIs</td>
+    <td>☁️ Third-Party Integrations</td>
+  </tr>
+  <tr>
+    <td>🧱 Clean Architecture</td>
+    <td>🛡️ Secure Backend Systems</td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### Home Plate — Food Delivery Platform
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### Services & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Payment_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🍽️ Home Plate — Food Delivery Platform
 
 A complete food delivery ecosystem connecting customers, vendors, riders, and administrators.
 
-**Backend Responsibilities**
+**Backend Features**
 
-* RESTful API development
+* RESTful APIs
 * Authentication and authorization
 * Order lifecycle management
 * Vendor and rider onboarding
@@ -69,79 +120,79 @@ A complete food delivery ecosystem connecting customers, vendors, riders, and ad
 * Mobile version control
 * File upload management
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Sanctum` `Firebase` `FCM` `REST API`
 
 ---
 
-### MVL — Car Rental & Limousine Platform
+### 🚗 MVL — Car Rental & Limousine Platform
 
-A car rental and limousine platform that connects customers with car rental companies and service providers.
+A platform connecting customers with car rental companies and limousine service providers.
 
-**Backend Responsibilities**
+**Backend Features**
 
-* Authentication system
+* Authentication
 * Booking system
 * Fleet management
 * Vendor dashboard APIs
-* Quotations system
+* Quotations
 * Notifications
 * Payment integration
 * Database design
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `REST API`
 
 ---
 
-### Move Point — Enterprise Management System
+### 📊 Move Point — Enterprise Management System
 
-An internal enterprise management system for managing employees, representatives, supervisors, and daily operations.
+An internal enterprise platform for managing employees, representatives, supervisors, and daily operations.
 
-**Backend Responsibilities**
+**Backend Features**
 
 * Employee management
 * Attendance system
 * Leave requests
 * Salary management
-* Document uploads
+* Document upload
 * Role and permission management
 * Notifications
 * Dashboard APIs
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Firebase` `REST API`
 
 ---
 
-### WhatsApp Messaging Platform
+### 💬 WhatsApp Messaging Platform
 
-A SaaS platform for managing WhatsApp messaging businesses, campaigns, subscriptions, and customers.
+A SaaS platform for managing WhatsApp messaging businesses, customers, campaigns, and subscriptions.
 
-**Backend Responsibilities**
+**Backend Features**
 
 * Subscription management
 * Customer management
 * Campaign management
 * OTP authentication
 * Payment integration
-* RESTful APIs
+* REST APIs
 * Admin dashboard
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `Sanctum` `REST API`
 
 ---
 
-### Real Estate All Stars
+### 🏢 Real Estate All Stars
 
 A real estate platform for managing developers, projects, units, property listings, and locations.
 
-**Backend Responsibilities**
+**Backend Features**
 
 * Developers management
 * Projects management
@@ -150,19 +201,19 @@ A real estate platform for managing developers, projects, units, property listin
 * Image uploads
 * Localization
 * Admin dashboard
-* RESTful APIs
+* REST APIs
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `REST API`
 
 ---
 
-### Hospital Management System
+### 🏥 Hospital Management System
 
-A hospital management system for handling doctors, patients, appointments, and medical records.
+A hospital management platform for doctors, patients, appointments, and medical records.
 
-**Backend Responsibilities**
+**Backend Features**
 
 * Patient management
 * Doctor management
@@ -171,17 +222,17 @@ A hospital management system for handling doctors, patients, appointments, and m
 * Authentication
 * Roles and permissions
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL`
 
 ---
 
-### Learning Management System API
+### 🎓 Learning Management System API
 
 A RESTful API for an online learning platform.
 
-**Backend Responsibilities**
+**Backend Features**
 
 * Student authentication
 * Course management
@@ -191,60 +242,40 @@ A RESTful API for an online learning platform.
 * Certificates
 * Payments
 
-**Tech Stack**
+**Stack**
 
 `Laravel` `PHP` `MySQL` `REST API`
 
 ---
 
-## Technical Skills
+## 🧠 Backend Principles
 
-### Backend Development
-
-`Laravel` `PHP` `REST API` `MVC` `Repository Pattern` `Service Layer`
-
-### Database
-
-`MySQL` `Database Design` `Query Optimization` `Eloquent ORM`
-
-### Authentication & Security
-
-`Laravel Sanctum` `Authorization` `Roles & Permissions` `API Security`
-
-### Third-Party Services
-
-`Firebase` `Firebase Cloud Messaging` `Payment Gateways` `Cloud Storage`
-
-### Tools & DevOps
-
-`Git` `GitHub` `Postman` `Composer` `Docker` `Linux` `cPanel`
-
-### Software Engineering
-
-`SOLID Principles` `Clean Code` `OOP` `Design Patterns` `Data Structures` `Algorithms`
-
----
-
-## Backend Principles I Follow
+<p>
+  <img src="https://img.shields.io/badge/Clean_Code-2E3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-2E3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure_APIs-2E3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scalable_Architecture-2E3440?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Optimized_Queries-2E3440?style=for-the-badge" />
+</p>
 
 * Clean and maintainable architecture
 * Secure API design
 * Clear separation of concerns
 * Scalable database structure
 * Optimized queries and performance
-* Consistent response structure
+* Consistent API response structure
 * Reusable services and business logic
 * Production-ready error handling
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" />
 
 </div>
 
@@ -252,6 +283,6 @@ A RESTful API for an online learning platform.
 
 <div align="center">
 
-### Let’s build reliable backend systems.
+### 🔥 Let’s build reliable backend systems.
 
 </div>
