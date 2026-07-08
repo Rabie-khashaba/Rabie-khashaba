@@ -472,17 +472,44 @@ I focus on building backend systems that are secure, scalable, maintainable, and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Backend Profile Summary
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-![Rabie Khashaba GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabie-khashaba&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&cache_seconds=86400)
+### 🔥 Main Stack
 
-<br/>
+`Laravel`  
+`PHP`  
+`MySQL`  
+`REST API`
 
-![Rabie Khashaba Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabie-khashaba&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+</td>
 
-</div>
+<td width="33%" align="center">
+
+### 🧱 Architecture
+
+`MVC`  
+`Repository Pattern`  
+`Service Layer`  
+`Clean Code`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Production Focus
+
+`API Security`  
+`Performance`  
+`Payments`  
+`Notifications`
+
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
