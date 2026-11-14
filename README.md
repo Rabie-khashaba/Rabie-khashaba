@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Backend Engineer** specialized in building secure, scalable, and maintainable backend systems using **Laravel** and **PHP**.
+I am a **Backend Engineer** specialized in building secure, scalable, and maintainable backend systems using **Laravel** and **PHP**, with additional experience in **frontend development**.
 
 I focus on developing clean RESTful APIs, database architecture, authentication systems, payment integrations, third-party services, admin dashboard APIs, notifications, localization, and performance optimization.
 
@@ -174,6 +174,15 @@ I focus on building production-ready backend systems with optimized queries, sta
   <img src="https://img.shields.io/badge/Webhooks-2E3440?style=for-the-badge" />
 </p>
 
+### 💻 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
 ### 🧰 Development Tools
 
 <p>
@@ -192,7 +201,7 @@ I focus on building production-ready backend systems with optimized queries, sta
 
 ### 🍽️ Home Plate
 
-**Food Delivery Platform**
+**Food Delivery Platform** · [GitHub](https://github.com/Rabie-khashaba/Home-Plate)
 
 A complete food delivery ecosystem that connects customers, vendors, riders, and administrators through a scalable backend system.
 
@@ -216,43 +225,17 @@ The platform supports customer ordering, vendor order handling, rider delivery o
 
 **Stack**
 
-`Laravel` `PHP` `MySQL` `Sanctum` `Firebase` `FCM` `REST API`
+`Laravel` `PHP` `MySQL` `Sanctum` `Firebase` `FCM` `REST API` `Cloudflare R2`
 
 ---
 
-### 🚗 MVL
+### 🏢 Move Point
 
-**Car Rental & Limousine Platform**
+**Enterprise Management System** · [GitHub](https://github.com/Rabie-khashaba/Move-Point)
 
-A car rental and limousine booking platform that connects customers with rental companies and limousine service providers.
+An internal enterprise management system designed to manage recruitment lifecycles, employees, representatives, supervisors, attendance, salaries, documents, sales pipelines, and lead tracking.
 
-The system handles bookings, fleet management, vendor operations, quotations, notifications, and payment workflows through a structured backend architecture.
-
-**Backend Features**
-
-- Authentication system
-- Booking management APIs
-- Fleet management
-- Vendor dashboard APIs
-- Quotations system
-- Notifications
-- Payment integration
-- Database design
-- Customer and vendor workflows
-
-**Stack**
-
-`Laravel` `PHP` `MySQL` `REST API`
-
----
-
-### 📊 Move Point
-
-**Enterprise Management System**
-
-An internal enterprise management system designed to manage employees, representatives, supervisors, attendance, salaries, documents, and daily operations.
-
-The system helps companies organize internal workflows, track employee activity, manage requests, and provide dashboard data for administrators.
+The system helps companies organize internal workflows, track employee activity, manage requests, and provide dashboard data for administrators — with WhatsApp integration and operational dashboards.
 
 **Backend Features**
 
@@ -260,7 +243,9 @@ The system helps companies organize internal workflows, track employee activity,
 - Attendance system
 - Leave requests
 - Salary management
+- Sales pipelines & lead tracking
 - Document upload
+- WhatsApp integration
 - Role and permission management
 - Notifications
 - Dashboard APIs
@@ -268,13 +253,13 @@ The system helps companies organize internal workflows, track employee activity,
 
 **Stack**
 
-`Laravel` `PHP` `MySQL` `Firebase` `REST API`
+`Laravel` `PHP` `MySQL` `JavaScript` `WhatsApp API` `REST API`
 
 ---
 
 ### 💬 WhatsApp Messaging Platform
 
-**SaaS Messaging System**
+**SaaS Messaging System** · [GitHub](https://github.com/Rabie-khashaba/Whatsapp)
 
 A SaaS platform for managing WhatsApp messaging businesses, customers, subscriptions, campaigns, and OTP authentication.
 
@@ -290,18 +275,43 @@ The platform allows businesses to manage customer communication, send campaigns,
 - RESTful APIs
 - Admin dashboard backend
 - WhatsApp messaging workflows
+- QR-based account authentication
 - User access tokens
+- Multi-instance support per phone number
 - External service integration
 
 **Stack**
 
-`Laravel` `PHP` `MySQL` `Sanctum` `REST API`
+`Laravel` `PHP` `MySQL` `Sanctum` `WhatsApp API` `REST API`
+
+---
+
+### 🚗 Meshwary
+
+**Ride-Hailing & Limousine System** · [GitHub](https://github.com/Rabie-khashaba/meshwary)
+
+A transportation and limousine booking operations backend and dashboard, managing drivers, vehicle fleets, regional service coverage, and customer trip bookings.
+
+**Backend Features**
+
+- Driver management
+- Vehicle fleet management
+- Trip booking workflows
+- Regional service coverage
+- Dispatch operations
+- Role-based access
+- Firebase notifications
+- Operational dashboard APIs
+
+**Stack**
+
+`Laravel` `PHP` `MySQL` `Firebase` `REST API`
 
 ---
 
 ### 🏢 Real Estate All Stars
 
-**Real Estate Platform**
+**Real Estate Platform** · [GitHub](https://github.com/Rabie-khashaba/All-star-Real-Estate-Dashboard)
 
 A real estate management platform for developers, projects, units, property listings, countries, cities, and areas.
 
@@ -325,38 +335,34 @@ The system provides backend APIs and admin dashboard functionality for managing 
 
 ---
 
-### 🏥 Hospital Management System
+### 🏥 ExpressCare
 
-**Medical Management Platform**
+**Healthcare Admin Platform** · [GitHub](https://github.com/Rabie-khashaba/expresscare-backend)
 
-A hospital management system for handling doctors, patients, appointments, medical records, authentication, and role-based access.
-
-The platform helps organize hospital workflows by managing patient data, doctor schedules, appointments, and medical information through a secure backend system.
+A Laravel healthcare platform with bilingual dashboards, role-based access, and API workflows for patients, referrals, and bookings.
 
 **Backend Features**
 
 - Patient management
-- Doctor management
-- Appointment scheduling
-- Medical records
-- Authentication
-- Roles and permissions
-- Database structure
-- Core backend APIs
+- Referral workflows
+- Appointment booking
+- WhatsApp OTP authentication
+- Role-based access
+- Bilingual dashboards
+- Payment integration (Paymob)
+- Firebase notifications
 
 **Stack**
 
-`Laravel` `PHP` `MySQL`
+`Laravel 12` `PHP` `MySQL` `WhatsApp OTP` `Paymob` `Firebase` `REST API`
 
 ---
 
 ### 🎓 Learning Management System
 
-**LMS API**
+**LMS & Course Management** · [GitHub](https://github.com/Rabie-khashaba/LMS-project-API-)
 
-A RESTful API for an online learning platform that manages students, courses, lessons, quizzes, enrollments, certificates, and payments.
-
-The system provides a structured backend for digital education platforms, supporting course delivery, student progress, and paid learning content.
+A RESTful API for an online learning platform that manages students, courses, lessons, quizzes, enrollments, certificates, and payments — for English and Dutch language programs.
 
 **Backend Features**
 
@@ -367,12 +373,54 @@ The system provides a structured backend for digital education platforms, suppor
 - Quiz system
 - Certificate generation flow
 - Payment handling
+- Scheduling coordination
 - API structure
 - Learning platform database
 
 **Stack**
 
 `Laravel` `PHP` `MySQL` `REST API`
+
+---
+
+### 🛒 Salem Shop
+
+**Commerce Backend** · [GitHub](https://github.com/Rabie-khashaba/salem-shop-backend)
+
+A Laravel commerce backend for product catalogs, customer quotes, and order workflows, supported by API documentation and an administration dashboard.
+
+**Backend Features**
+
+- Product catalog management
+- Customer quote workflows
+- Order workflows
+- API documentation
+- Administration dashboard
+- RESTful APIs
+
+**Stack**
+
+`Laravel` `PHP` `MySQL` `REST API`
+
+---
+
+### 📢 Arzaq
+
+**Classifieds & Ads Platform** · [GitHub](https://github.com/Rabie-khashaba/Arzaq-website)
+
+A commercial advertising and classifieds platform connecting buyers and sellers with categorized directory browsing, post-ad workflows, and structured REST API integration.
+
+**Backend Features**
+
+- Categorized directory browsing
+- Post-ad workflows
+- Buyer and seller workflows
+- Structured REST API integration
+- Modern frontend interface
+
+**Stack**
+
+`React` `Vite` `Tailwind CSS` `REST APIs` `Lucide Icons`
 
 ---
 
